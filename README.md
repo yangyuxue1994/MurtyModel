@@ -70,6 +70,6 @@ NOTE: in this case, ACTR always remember every stimulus. Can we simulate the for
 	- Else, Respond no
 
 ### PyACTUP Model
-todo...
+
  
  
